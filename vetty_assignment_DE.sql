@@ -16,7 +16,8 @@ CREATE TABLE items (
     store_id VARCHAR(10),
     item_id VARCHAR(10),
     item_category VARCHAR(50),
-    item_name VARCHAR(50)  -- Make sure there's a normal space before VARCHAR
+    item_name VARCHAR(50)  
+    
 );
 
 
